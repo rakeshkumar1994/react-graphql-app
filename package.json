@@ -18,7 +18,7 @@
     "graphql": "^14.5.8",
     "graphql-tools": "^4.0.6",
     "lodash": "^4.17.15",
-    "mongoose": "^5.7.12",
+    "mongoose": "^6.13.6",
     "nodemon": "^2.0.1"
   }
 }
